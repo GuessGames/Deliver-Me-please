@@ -14,10 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Shop.unity
     guid: d4a5c7e852d214dc1b10e7c0e28f5cae
-  m_configObjects:
-    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: acc98ff50b9cf2347a9306d3b4087723,
-      type: 2}
-    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
-      guid: dbe7485a60d0b7b44aeb24d739202e76, type: 2}
-    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
-      guid: f7d7ad8b5bc1d79468a42fa2eb94da89, type: 2}
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: f0c430d624288c34f81624e8a1bee887
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 1ab78213509e7df4aafe622c03520aef
+  m_configObjects: {}
