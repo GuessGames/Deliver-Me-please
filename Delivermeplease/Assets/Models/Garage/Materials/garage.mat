@@ -80,7 +80,7 @@ Material:
     - _Glossiness: 0.5
     - _GlossyReflections: 1
     - _HighIntensity: 1.5
-    - _LightScalar: 1
+    - _LightScalar: 0.87
     - _LowIntensity: 3
     - _Metallic: 0
     - _Mode: 0
